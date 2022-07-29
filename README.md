@@ -24,9 +24,13 @@
 
 Buatlah sebuah function yang menerima parameter angka, kemudian tampilkan angka 1 sampa dengan angka yang terima sebagai parameter , jika angka tersebut kelipatan 3, maka ganti angka tersebut dengan kata “Pizza”, jika angka tersebut kelipatan 5, maka ganti angka tersebut dengan kata “Mozarella”, dan jika angka tersebut kelipatan 3, dan 5 maka ganti dengan kata “PizzaMozarella”.
 
-### 3. Buat program Javascript PizzaMozarella
+### 3. Buat program Javascript IsAnagram
 
 Buatlah sebuah function untuk menentukan apakah kata yang dimasukan adalah anagram atau bukan, function ini menerima 2 buah param berupa `string`, yang mana menghasilkan hasil antara `true` atau `false`
+
+##### Apa itu Anagram?
+
+Anagram adalah salah satu jenis permainan kata yang huruf-huruf di kata awal biasanya diacak untuk membentuk kata lain atau sebuah kalimat. Anagram sering dipakai sebagai kode. Permainan yang menggunakan anagram antara lain adalah scrabble dan boggle. Dalam kedua permainan ini, pemain berusaha membentuk kata-kata dari huruf yang disediakan.
 
 #### Note
 
