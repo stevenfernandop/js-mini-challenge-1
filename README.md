@@ -27,3 +27,8 @@ Buatlah sebuah function yang menerima parameter angka, kemudian tampilkan angka 
 ### 3. Buat program Javascript PizzaMozarella
 
 Buatlah sebuah function untuk menentukan apakah kata yang dimasukan adalah anagram atau bukan, function ini menerima 2 buah param berupa `string`, yang mana menghasilkan hasil antara `true` atau `false`
+
+#### Note
+
+Semua jawaban harus bisa untuk "scaling"
+dalam artian jika kita merubah param yang dimasukan, maka function tersebut berjalan secara bagaimana fungsinya
