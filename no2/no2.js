@@ -5,7 +5,7 @@ function pizzaMozarella(score) {
 }
 
 // Test Case
-console.log(pizzaMozarella(15));
+pizzaMozarella(15);
 // 1
 // 2
 // Pizza
