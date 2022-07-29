@@ -1,4 +1,4 @@
-Buatlah logika if untuk mengevaluasi nilai score dengan ketentuan:
+### 1. Buatlah logika if untuk mengevaluasi nilai score dengan ketentuan:
 
 1. Jika nilai score lebih atau sama dengan 90
 
@@ -19,3 +19,11 @@ Buatlah logika if untuk mengevaluasi nilai score dengan ketentuan:
 5. Jika nilai score di bawah 60:
 
 - Isi variabel result dengan nilai: 'Anda mendapatkan nilai E.'
+
+### 2. Buat program Javascript PizzaMozarella
+
+Buatlah sebuah function yang menerima parameter angka, kemudian tampilkan angka 1 sampa dengan angka yang terima sebagai parameter , jika angka tersebut kelipatan 3, maka ganti angka tersebut dengan kata “Pizza”, jika angka tersebut kelipatan 5, maka ganti angka tersebut dengan kata “Mozarella”, dan jika angka tersebut kelipatan 3, dan 5 maka ganti dengan kata “PizzaMozarella”.
+
+### 3. Buat program Javascript PizzaMozarella
+
+Buatlah sebuah function untuk menentukan apakah kata yang dimasukan adalah anagram atau bukan, function ini menerima 2 buah param berupa `string`, yang mana menghasilkan hasil antara `true` atau `false`
