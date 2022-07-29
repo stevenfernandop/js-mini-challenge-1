@@ -32,7 +32,9 @@ Buatlah sebuah function untuk menentukan apakah kata yang dimasukan adalah anagr
 
 Anagram adalah salah satu jenis permainan kata yang huruf-huruf di kata awal biasanya diacak untuk membentuk kata lain atau sebuah kalimat. Anagram sering dipakai sebagai kode. Permainan yang menggunakan anagram antara lain adalah scrabble dan boggle. Dalam kedua permainan ini, pemain berusaha membentuk kata-kata dari huruf yang disediakan.
 
-#### Note
+### Good Luck !
+
+#### Note:
 
 Semua jawaban harus bisa untuk "scaling"
 dalam artian jika kita merubah param yang dimasukan, maka function tersebut berjalan secara bagaimana fungsinya
