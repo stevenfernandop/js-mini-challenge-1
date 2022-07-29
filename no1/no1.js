@@ -1,7 +1,24 @@
+
 function scoreChecker(score) {
   // Tulis kodingan dibawah ini
-  result = 'A';
-  return result;
+ if(score >= 90 && score < 100){
+   return('Selamat! Anda mendapatkan, Nilai A');
+ }
+ else if(score >= 80 && score < 90){
+  return('Nilai B');
+ }
+ else if(score >= 70 && score < 80){
+  return('Nilai C');
+ }
+ else if(score >= 60 && score < 70){
+  return('Nilai D');
+ }
+ else if(score < 60){
+  return('Nilai E');
+ }
+ else{
+  console.log('nilai tidak ditemukan');
+ }
 }
 
 console.log(scoreChecker(92)); // Selamat! Anda mendapatkan nilai A.
