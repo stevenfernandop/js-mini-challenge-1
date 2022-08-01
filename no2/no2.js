@@ -3,15 +3,18 @@ function pizzaMozarella(score) {
 
   for(let i = 1 ; i <= score; i++ ){
 
-      if(i % 3 === 0){
+      if(i % 3 === 0 && i % 5 === 0){
+          console.log("PizzaMozarella");
+      }else if(i % 3 === 0){
           console.log("Pizza");
-      }else if(i % 5 === 0){
-          console.log("Mozarella");
-      }else{
+      }else if(i % 5 === 0  ){
+          console.log('Mozarella');
+      }
+      else{
           console.log(i);
       }
   }
 }
 
 // Test Case
-pizzaMozarella(15);
+pizzaMozarella(20);
